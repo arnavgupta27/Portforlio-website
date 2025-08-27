@@ -2,6 +2,16 @@
 
 A modern, performant single-page portfolio website built with React 18, TypeScript, and Tailwind CSS. Features smooth animations, responsive design, and optimized performance for showcasing Arnav's skills and projects.
 
+---
+
+
+
+https://github.com/user-attachments/assets/5c47bba6-b3fa-4ddc-a769-457388d422d0
+
+
+
+---
+
 ## 🚀 Features
 
 - **Modern Tech Stack**: React 18, TypeScript, Tailwind CSS, Framer Motion
